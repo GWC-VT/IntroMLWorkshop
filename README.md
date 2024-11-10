@@ -15,5 +15,6 @@ This is a blank template that you can use to follow along with the workshop!
 
 ## Open in Colab
 1. Click the file you want to follow along with
-2. Click "Open in Colab"
-3. IMPORTANT: Click File -> Save a copy in Drive. If you edit the main copy, you won't be able to save your changes!
+2. Click download
+3. Go to Google Colab: https://colab.research.google.com/
+4. When prompted to open a notebook, click "upload" and upload the file you just downloaded.
