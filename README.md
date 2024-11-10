@@ -13,4 +13,7 @@ This is the anotated, fully complete document. It includes the example we go ove
 ### BlankFollowAlong.ipynb
 This is a blank template that you can use to follow along with the workshop!
 
-#### To use this in Colab, just click the file you want to open, and click the button "open in colab"!!
+## Open in Colab
+1. Click the file you want to follow along with
+2. Click "Open in Colab"
+3. IMPORTANT: Click File -> Save a copy in Drive. If you edit the main copy, you won't be able to save your changes!
