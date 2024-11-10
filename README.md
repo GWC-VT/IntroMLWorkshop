@@ -9,3 +9,8 @@ You'll find a few resources in here for your use:
 
 ### GWCintroAIML.ipynb
 This is the anotated, fully complete document. It includes the example we go over in the workshop, complete with LOTS of notes and extension ideas. 
+
+### BlankFollowAlong.ipynb
+This is a blank template that you can use to follow along with the workshop!
+
+#### To use this in Colab, just click the file you want to open, and click the button "open in colab"!!
